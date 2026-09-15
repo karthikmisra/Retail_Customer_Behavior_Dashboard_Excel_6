@@ -27,7 +27,7 @@ This project analyzes comprehensive customer records (`Retail Company Record.xls
 * **Key Metrics Analyzed:** `Year_Birth`, `Income`, `NumWebPurchases`, `NumStorePurchases`, `MntFruits`, `MntSweetProducts`, `Dt_Customer`, `Recency`, `Education`, `Marital_Status`.
 
 ### 1. Dashboard Layout & Analysis View
-
+https://github.com/karthikmisra/Retail_Customer_Behavior_Dashboard_Excel_6/blob/main/Screenshot%20of%20the%20Dashboard.png
 
 ## ⚙️ How to Use This Repository
 1. Download the `Retail Company Record.xlsx` file.
