@@ -23,7 +23,7 @@ This project analyzes comprehensive customer records (`Retail Company Record.xls
 
 ## 📁 Dataset Source & Files
 * **Dataset Name:** `Retail Company Record.xlsx` (Contains `customer_dataset` and `purchase_dataset` sheets).
-* **Data Source Link:** [Access/Download Dataset Here](Retail Company Record.xlsx) *(or link your repository source file)*
+* **Data Source Link:** https://github.com/karthikmisra/Retail_Customer_Behavior_Dashboard_Excel_6/blob/main/Retail_Customer_Behaviour_Dashboard_Excel_6.xlsx
 * **Key Metrics Analyzed:** `Year_Birth`, `Income`, `NumWebPurchases`, `NumStorePurchases`, `MntFruits`, `MntSweetProducts`, `Dt_Customer`, `Recency`, `Education`, `Marital_Status`.
 
 ### 1. Dashboard Layout & Analysis View
